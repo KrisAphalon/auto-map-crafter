@@ -1,0 +1,18 @@
+{
+  "COLOR_NAMES": {
+    "SEA": "SEA",
+    "SAND": "SAND"
+  },
+  "COLOR_NUMBERS": {
+    "SEA": 0,
+    "SAND": 1
+  },
+  "COLOR_ARRAY": [
+    "SEA",
+    "SAND"
+  ],
+  "COLOR_RGB": {
+    "SEA": [0, 42, 255],
+    "SAND": [255, 237, 0]
+  }
+}

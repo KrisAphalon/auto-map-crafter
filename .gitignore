@@ -1,0 +1,7 @@
+.tern-project
+node_modules/*
+.idea
+.nyc_output/*
+coverage/*
+.htaccess
+dist/*
