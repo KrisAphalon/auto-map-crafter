@@ -1,0 +1,1 @@
+# auto-map-crafter
