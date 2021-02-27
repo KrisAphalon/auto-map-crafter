@@ -1,18 +1,30 @@
 {
   "COLOR_NAMES": {
+    "VOID": "VOID",
     "SEA": "SEA",
-    "SAND": "SAND"
+    "SAND": "SAND",
+    "GRASS": "GRASS",
+    "CLIFF": "CLIFF"
   },
   "COLOR_NUMBERS": {
-    "SEA": 0,
-    "SAND": 1
+    "VOID": 0,
+    "SEA": 1,
+    "SAND": 2,
+    "GRASS": 3,
+    "CLIFF": 4
   },
   "COLOR_ARRAY": [
+    "VOID",
     "SEA",
-    "SAND"
+    "SAND",
+    "GRASS",
+    "CLIFF"
   ],
   "COLOR_RGB": {
+    "VOID": [0, 0, 0],
     "SEA": [0, 42, 255],
-    "SAND": [255, 237, 0]
+    "SAND": [255, 237, 0],
+    "GRASS": [63, 134, 0],
+    "CLIFF": [96, 96, 96]
   }
 }
